@@ -101,6 +101,7 @@ enum struct Command : int
     fastq_filter,
     fastx_filter,
     fastq_convert,
+    fastq_denoise,
     fastq_eestats,
     fastq_eestats2,
     fastq_join,
